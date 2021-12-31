@@ -38,12 +38,71 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
+		<!-- The Tale of Peter Rabbit -->
 		<dc:source>https://www.gutenberg.org/ebooks/14838</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://hdl.handle.net/2027/mdp.39015083455223</dc:source>
+		<!-- The Tale of Squirrel Nutkin -->
+		<dc:source>https://www.gutenberg.org/ebooks/14872</dc:source>
+		<dc:source>https://hdl.handle.net/2027/mdp.39015089573987</dc:source>
+		<!-- The Tailor of Gloucester -->
+		<dc:source>https://www.gutenberg.org/ebooks/14868</dc:source>
+		<dc:source>https://hdl.handle.net/2027/nc01.ark:/13960/t5t73h76d</dc:source>
+		<!-- The Tale of Benjamin Bunny -->
+		<dc:source>https://www.gutenberg.org/ebooks/14407</dc:source>
+		<dc:source>https://hdl.handle.net/2027/mdp.39015089595105</dc:source>
+		<!-- The Tale of Two Bad Mice -->
+		<dc:source>https://www.gutenberg.org/ebooks/45264</dc:source>
+		<dc:source>https://hdl.handle.net/2027/mdp.39015083455249</dc:source>
+		<!-- The Tale of Mrs. Tiggy-Winkle -->
+		<dc:source>https://www.gutenberg.org/ebooks/15137</dc:source>
+		<dc:source>https://hdl.handle.net/2027/mdp.39015013147809</dc:source>
+		<!-- The Tale of the Pie and the Patty-Pan -->
+		<dc:source>https://www.gutenberg.org/ebooks/15234</dc:source>
+		<dc:source>https://hdl.handle.net/2027/uc1.$b60304</dc:source>
+		<!-- The Tale of Mr. Jeremy Fisher -->
+		<dc:source>https://www.gutenberg.org/ebooks/15077</dc:source>
+		<dc:source>https://hdl.handle.net/2027/hvd.hwg1mf</dc:source>
+		<!-- The Story of a Fierce Bad Rabbit -->
+		<!-- Can’t find a source with a publication date -->
+		<dc:source>https://www.gutenberg.org/ebooks/45265</dc:source>
+		<dc:source>https://hdl.handle.net/2027/mdp.39015089595014</dc:source>
+		<!-- The Story of Miss Moppet -->
+		<!-- No source available at all -->
+		<dc:source>https://www.gutenberg.org/ebooks/14848</dc:source>
+		<!-- The Tale of Tom Kitten -->
+		<dc:source>https://www.gutenberg.org/ebooks/14837</dc:source>
+		<dc:source>https://hdl.handle.net/2027/uc2.ark:/13960/t77s7jq6d</dc:source>
+		<!-- The Tale of Jemima Puddle-Duck -->
+		<dc:source>https://www.gutenberg.org/ebooks/14814</dc:source>
+		<dc:source>https://hdl.handle.net/2027/umn.31951000955337w</dc:source>
+		<!-- The Tale of Samuel Whiskers a.k.a. The Roly-Poly Pudding -->
+		<dc:source>https://www.gutenberg.org/ebooks/15575</dc:source>
+		<dc:source>https://hdl.handle.net/2027/mdp.39015024534706</dc:source>
+		<!-- The Tale of the Flopsy Bunnies (copyright renewal edition) -->
+		<dc:source>https://www.gutenberg.org/ebooks/14220</dc:source>
+		<dc:source>https://www.google.com/books/edition/The_Tale_of_the_Flopsy_Bunnies/0i81Lga5LM8C</dc:source>
+		<!-- The Tale of Ginger and Pickles -->
+		<dc:source>https://www.gutenberg.org/ebooks/14877</dc:source>
+		<dc:source>https://hdl.handle.net/2027/mdp.39015013147817</dc:source>
+		<!-- The Tale of Mrs. Tittlemouse -->
+		<dc:source>https://www.gutenberg.org/ebooks/17089</dc:source>
+		<dc:source>https://hdl.handle.net/2027/mdp.39015013146264</dc:source>
+		<!-- The Tale of Timmy Tiptoes -->
+		<dc:source>https://www.gutenberg.org/ebooks/14797</dc:source>
+		<dc:source>https://hdl.handle.net/2027/mdp.39015089581675</dc:source>
+		<!-- The Tale of Mr. Tod -->
+		<dc:source>https://www.gutenberg.org/ebooks/19805</dc:source>
+		<dc:source>https://hdl.handle.net/2027/mdp.39015088647147</dc:source>
+		<!-- The Tale of Pigling Bland -->
+		<dc:source>https://www.gutenberg.org/ebooks/582</dc:source>
+		<dc:source>https://hdl.handle.net/2027/nyp.33433000855258</dc:source>
+		<!-- The Tale of Johnny Town-Mouse -->
+		<dc:source>https://www.gutenberg.org/ebooks/15284</dc:source>
+		<dc:source>https://hdl.handle.net/2027/mdp.39015089581832</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Beatrix_Potter#Publications</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/beatrix-potter_short-fiction</meta>
 		<dc:creator id="author">Beatrix Potter</dc:creator>
 		<meta property="file-as" refines="#author">Potter, Beatrix</meta>
@@ -79,6 +138,26 @@
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-story-of-a-fierce-bad-rabbit.xhtml" id="the-story-of-a-fierce-bad-rabbit.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-story-of-miss-moppet.xhtml" id="the-story-of-miss-moppet.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tailor-of-gloucester.xhtml" id="the-tailor-of-gloucester.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-benjamin-bunny.xhtml" id="the-tale-of-benjamin-bunny.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-ginger-and-pickles.xhtml" id="the-tale-of-ginger-and-pickles.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-jemima-puddle-duck.xhtml" id="the-tale-of-jemima-puddle-duck.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-johnny-town-mouse.xhtml" id="the-tale-of-johnny-town-mouse.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-mr-jeremy-fisher.xhtml" id="the-tale-of-mr-jeremy-fisher.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-mr-tod.xhtml" id="the-tale-of-mr-tod.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-mrs-tiggy-winkle.xhtml" id="the-tale-of-mrs-tiggy-winkle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-mrs-tittlemouse.xhtml" id="the-tale-of-mrs-tittlemouse.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-peter-rabbit.xhtml" id="the-tale-of-peter-rabbit.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-pigling-bland.xhtml" id="the-tale-of-pigling-bland.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-samuel-whiskers.xhtml" id="the-tale-of-samuel-whiskers.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-squirrel-nutkin.xhtml" id="the-tale-of-squirrel-nutkin.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-the-flopsy-bunnies.xhtml" id="the-tale-of-the-flopsy-bunnies.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-the-pie-and-the-patty-pan.xhtml" id="the-tale-of-the-pie-and-the-patty-pan.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-timmy-tiptoes.xhtml" id="the-tale-of-timmy-tiptoes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-tom-kitten.xhtml" id="the-tale-of-tom-kitten.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-two-bad-mice.xhtml" id="the-tale-of-two-bad-mice.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -86,6 +165,26 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="the-tale-of-peter-rabbit.xhtml"/>
+		<itemref idref="the-tale-of-squirrel-nutkin.xhtml"/>
+		<itemref idref="the-tailor-of-gloucester.xhtml"/>
+		<itemref idref="the-tale-of-benjamin-bunny.xhtml"/>
+		<itemref idref="the-tale-of-two-bad-mice.xhtml"/>
+		<itemref idref="the-tale-of-mrs-tiggy-winkle.xhtml"/>
+		<itemref idref="the-tale-of-the-pie-and-the-patty-pan.xhtml"/>
+		<itemref idref="the-tale-of-mr-jeremy-fisher.xhtml"/>
+		<itemref idref="the-story-of-a-fierce-bad-rabbit.xhtml"/>
+		<itemref idref="the-story-of-miss-moppet.xhtml"/>
+		<itemref idref="the-tale-of-tom-kitten.xhtml"/>
+		<itemref idref="the-tale-of-jemima-puddle-duck.xhtml"/>
+		<itemref idref="the-tale-of-samuel-whiskers.xhtml"/>
+		<itemref idref="the-tale-of-the-flopsy-bunnies.xhtml"/>
+		<itemref idref="the-tale-of-ginger-and-pickles.xhtml"/>
+		<itemref idref="the-tale-of-mrs-tittlemouse.xhtml"/>
+		<itemref idref="the-tale-of-timmy-tiptoes.xhtml"/>
+		<itemref idref="the-tale-of-mr-tod.xhtml"/>
+		<itemref idref="the-tale-of-pigling-bland.xhtml"/>
+		<itemref idref="the-tale-of-johnny-town-mouse.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>

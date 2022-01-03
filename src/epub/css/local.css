@@ -51,22 +51,26 @@ section > header [epub|type~="epigraph"] + *{
 }
 /* End epigraphs in section headers */
 
-[epub|type~="z3998:poem"] p{
+[epub|type~="z3998:poem"] p,
+[epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] p + p{
+[epub|type~="z3998:poem"] p + p,
+[epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
 
-[epub|type~="z3998:poem"] p > span{
+[epub|type~="z3998:poem"] p > span,
+[epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
-[epub|type~="z3998:poem"] p > span + br{
+[epub|type~="z3998:poem"] p > span + br,
+[epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
 
@@ -86,4 +90,10 @@ section > header [epub|type~="epigraph"] + *{
 #the-tailor-of-gloucester [epub|type~="dedication"]{
 	text-align: left;
 	font-variant: normal;
+}
+
+#the-tailor-of-gloucester > blockquote:last-of-type{
+	text-align: center;
+	font-variant: all-small-caps;
+	font-size: .75em;
 }

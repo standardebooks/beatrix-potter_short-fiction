@@ -37,7 +37,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>en-US</dc:language>
+		<dc:language>en-GB</dc:language>
 		<!-- The Tale of Peter Rabbit -->
 		<dc:source>https://www.gutenberg.org/ebooks/14838</dc:source>
 		<dc:source>https://hdl.handle.net/2027/mdp.39015083455223</dc:source>

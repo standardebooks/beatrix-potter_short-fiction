@@ -52,17 +52,20 @@ section > header [epub|type~="epigraph"] + *{
 /* End epigraphs in section headers */
 
 [epub|type~="z3998:poem"] p,
+[epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
 [epub|type~="z3998:poem"] p + p,
+[epub|type~="z3998:song"] p + p,
 [epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
 
 [epub|type~="z3998:poem"] p > span,
+[epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
@@ -70,8 +73,14 @@ section > header [epub|type~="epigraph"] + *{
 }
 
 [epub|type~="z3998:poem"] p > span + br,
+[epub|type~="z3998:song"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
+}
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
 }
 
 [epub|type~="dedication"]{
@@ -85,6 +94,28 @@ section > header [epub|type~="epigraph"] + *{
 
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
+}
+
+#the-tale-of-peter-rabbit > p > span{
+	display: block;
+	margin: .5em 3em;
+	text-indent: 0;
+}
+
+#the-tale-of-peter-rabbit span > span{
+	display: block;
+}
+
+#the-tale-of-peter-rabbit span > span:nth-child(1){
+	padding-left: 9em;
+}
+
+#the-tale-of-peter-rabbit span > span:nth-child(2){
+	padding-left: 6em;
+}
+
+#the-tale-of-peter-rabbit span > span:nth-child(3){
+	padding-left: 3em;
 }
 
 #the-tailor-of-gloucester [epub|type~="dedication"]{

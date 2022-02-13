@@ -13,39 +13,27 @@ footer{
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] em,
-[epub|type~="epigraph"] i{
-	font-style: normal;
-}
-
 [epub|type~="epigraph"] cite{
 	font-style: normal;
 	font-variant: small-caps;
 	margin-top: 1em;
 }
-
-[epub|type~="epigraph"] cite i{
-	font-style: italic;
-}
 /* End all epigraphs */
 
 /* Epigraphs in section headers */
-article > header [epub|type~="epigraph"],
-section > header [epub|type~="epigraph"]{
+article > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
 	max-width: 80%;
 	text-align: initial;
 }
 
-article > header [epub|type~="epigraph"] + *,
-section > header [epub|type~="epigraph"] + *{
+article > header [epub|type~="epigraph"] + *{
 	margin-top: 3em;
 }
 
 @supports(display: table){
-	article > header [epub|type~="epigraph"],
-	section > header [epub|type~="epigraph"]{
+	article > header [epub|type~="epigraph"]{
 		display: table;
 	}
 }
@@ -56,12 +44,6 @@ section > header [epub|type~="epigraph"] + *{
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
-}
-
-[epub|type~="z3998:poem"] p + p,
-[epub|type~="z3998:song"] p + p,
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
 }
 
 [epub|type~="z3998:poem"] p > span,
@@ -120,7 +102,7 @@ p span.i1{
 
 #the-tailor-of-gloucester [epub|type~="dedication"]{
 	font-variant: normal;
-	text-align: left;
+	text-align: initial;
 }
 
 #the-tailor-of-gloucester > blockquote:last-of-type{

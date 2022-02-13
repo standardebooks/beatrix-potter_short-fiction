@@ -36,13 +36,13 @@ h4,
 h5,
 h6,
 hgroup{
+	break-after: avoid;
+	break-inside: avoid;
 	font-variant: small-caps;
 	hyphens: none;
 	-epub-hyphens: none;
-	break-after: avoid;
-	break-inside: avoid;
-	text-align: center;
 	margin: 3em 0;
+	text-align: center;
 }
 
 hgroup > *{
@@ -130,5 +130,10 @@ section[epub|type~="endnotes"] > ol > li{
 @media all and (prefers-color-scheme: dark){
 	img[epub|type~="se:image.color-depth.black-on-transparent"]{
 		filter: invert(100%);
+	}
+
+	img[epub|type~="se:image.color-depth.black-on-transparent"][epub|type~="se:image.style.realistic"]{
+		background: currentColor;
+		filter: none;
 	}
 }

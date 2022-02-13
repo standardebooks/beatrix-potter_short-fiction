@@ -19,9 +19,9 @@ footer{
 }
 
 [epub|type~="epigraph"] cite{
-	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+	margin-top: 1em;
 }
 
 [epub|type~="epigraph"] cite i{
@@ -84,8 +84,8 @@ p span.i1{
 }
 
 [epub|type~="dedication"]{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 [epub|type~="dedication"] b{
@@ -119,12 +119,12 @@ p span.i1{
 }
 
 #the-tailor-of-gloucester [epub|type~="dedication"]{
-	text-align: left;
 	font-variant: normal;
+	text-align: left;
 }
 
 #the-tailor-of-gloucester > blockquote:last-of-type{
-	text-align: center;
-	font-variant: all-small-caps;
 	font-size: .75em;
+	font-variant: all-small-caps;
+	text-align: center;
 }

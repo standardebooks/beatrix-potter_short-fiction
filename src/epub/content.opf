@@ -31,7 +31,42 @@
 		<dc:subject id="subject-1">Rabbits -- Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008110336</meta>
-		<meta property="se:subject">TAG</meta>
+		<dc:subject id="subject-2">Squirrels -- Juvenile fiction</dc:subject>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2010114581</meta>
+		<dc:subject id="subject-3">Mice -- Juvenile fiction</dc:subject>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008107739</meta>
+		<dc:subject id="subject-4">Christmas -- Juvenile fiction</dc:subject>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85025320</meta>
+		<dc:subject id="subject-5">Conduct of life -- Juvenile fiction</dc:subject>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008100297</meta>
+		<dc:subject id="subject-6">Theft -- Juvenile fiction</dc:subject>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2010116435</meta>
+		<dc:subject id="subject-7">Dogs -- Juvenile fiction</dc:subject>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008102357</meta>
+		<dc:subject id="subject-8">Cats -- Juvenile fiction</dc:subject>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">sh2008100224</meta>
+		<dc:subject id="subject-9">Frogs -- Juvenile fiction</dc:subject>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">sh2008121275</meta>
+		<dc:subject id="subject-10">Kittens -- Juvenile fiction</dc:subject>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">sh2008122902</meta>
+		<dc:subject id="subject-11">Foxes -- Juvenile fiction</dc:subject>
+		<meta property="authority" refines="#subject-11">LCSH</meta>
+		<meta property="term" refines="#subject-11">sh2008120259</meta>
+		<dc:subject id="subject-12">Ducks -- Juvenile fiction</dc:subject>
+		<meta property="authority" refines="#subject-12">LCSH</meta>
+		<meta property="term" refines="#subject-12">sh2009123947</meta>
+		<meta property="se:subject">Childrens</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
@@ -39,65 +74,65 @@
 		<dc:language>en-GB</dc:language>
 		<!-- The Tale of Peter Rabbit -->
 		<dc:source>https://www.gutenberg.org/ebooks/14838</dc:source>
-		<dc:source>https://hdl.handle.net/2027/mdp.39015083455223</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/009158398</dc:source>
 		<!-- The Tale of Squirrel Nutkin -->
 		<dc:source>https://www.gutenberg.org/ebooks/14872</dc:source>
-		<dc:source>https://hdl.handle.net/2027/mdp.39015089573987</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/010381600</dc:source>
 		<!-- The Tailor of Gloucester -->
 		<dc:source>https://www.gutenberg.org/ebooks/14868</dc:source>
-		<dc:source>https://hdl.handle.net/2027/nc01.ark:/13960/t5t73h76d</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/006149453</dc:source>
 		<!-- The Tale of Benjamin Bunny -->
 		<dc:source>https://www.gutenberg.org/ebooks/14407</dc:source>
-		<dc:source>https://hdl.handle.net/2027/mdp.39015089595105</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/011001843</dc:source>
 		<!-- The Tale of Two Bad Mice -->
 		<dc:source>https://www.gutenberg.org/ebooks/45264</dc:source>
-		<dc:source>https://hdl.handle.net/2027/mdp.39015083455249</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/009158391</dc:source>
 		<!-- The Tale of Mrs. Tiggy-Winkle -->
 		<dc:source>https://www.gutenberg.org/ebooks/15137</dc:source>
-		<dc:source>https://hdl.handle.net/2027/mdp.39015013147809</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/001021701</dc:source>
 		<!-- The Tale of the Pie and the Patty-Pan -->
 		<dc:source>https://www.gutenberg.org/ebooks/15234</dc:source>
-		<dc:source>https://hdl.handle.net/2027/uc1.$b60304</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/006578051</dc:source>
 		<!-- The Tale of Mr. Jeremy Fisher -->
 		<dc:source>https://www.gutenberg.org/ebooks/15077</dc:source>
-		<dc:source>https://hdl.handle.net/2027/hvd.hwg1mf</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/100525667</dc:source>
 		<!-- The Story of a Fierce Bad Rabbit -->
-		<!-- Can’t find a source with a publication date -->
+		<!-- Can’t find scans with a publication date -->
 		<dc:source>https://www.gutenberg.org/ebooks/45265</dc:source>
-		<dc:source>https://hdl.handle.net/2027/mdp.39015089595014</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/011001828</dc:source>
 		<!-- The Story of Miss Moppet -->
-		<!-- No source available at all -->
+		<!-- No scans available -->
 		<dc:source>https://www.gutenberg.org/ebooks/14848</dc:source>
 		<!-- The Tale of Tom Kitten -->
 		<dc:source>https://www.gutenberg.org/ebooks/14837</dc:source>
-		<dc:source>https://hdl.handle.net/2027/uc2.ark:/13960/t77s7jq6d</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/009259236</dc:source>
 		<!-- The Tale of Jemima Puddle-Duck -->
 		<dc:source>https://www.gutenberg.org/ebooks/14814</dc:source>
-		<dc:source>https://hdl.handle.net/2027/umn.31951000955337w</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/100027646</dc:source>
 		<!-- The Tale of Samuel Whiskers a.k.a. The Roly-Poly Pudding -->
 		<dc:source>https://www.gutenberg.org/ebooks/15575</dc:source>
-		<dc:source>https://hdl.handle.net/2027/mdp.39015024534706</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/001364805</dc:source>
 		<!-- The Tale of the Flopsy Bunnies (copyright renewal edition) -->
 		<dc:source>https://www.gutenberg.org/ebooks/14220</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Tale_of_the_Flopsy_Bunnies/0i81Lga5LM8C</dc:source>
 		<!-- The Tale of Ginger and Pickles -->
 		<dc:source>https://www.gutenberg.org/ebooks/14877</dc:source>
-		<dc:source>https://hdl.handle.net/2027/mdp.39015013147817</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/001032627</dc:source>
 		<!-- The Tale of Mrs. Tittlemouse -->
 		<dc:source>https://www.gutenberg.org/ebooks/17089</dc:source>
-		<dc:source>https://hdl.handle.net/2027/mdp.39015013146264</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/001418591</dc:source>
 		<!-- The Tale of Timmy Tiptoes -->
 		<dc:source>https://www.gutenberg.org/ebooks/14797</dc:source>
-		<dc:source>https://hdl.handle.net/2027/mdp.39015089581675</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/010382912</dc:source>
 		<!-- The Tale of Mr. Tod -->
 		<dc:source>https://www.gutenberg.org/ebooks/19805</dc:source>
-		<dc:source>https://hdl.handle.net/2027/mdp.39015088647147</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/010349296</dc:source>
 		<!-- The Tale of Pigling Bland -->
 		<dc:source>https://www.gutenberg.org/ebooks/582</dc:source>
-		<dc:source>https://hdl.handle.net/2027/nyp.33433000855258</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/008587859</dc:source>
 		<!-- The Tale of Johnny Town-Mouse -->
 		<dc:source>https://www.gutenberg.org/ebooks/15284</dc:source>
-		<dc:source>https://hdl.handle.net/2027/mdp.39015089581832</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/010382937</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -105,7 +140,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/beatrix-potter_short-fiction</meta>
 		<dc:creator id="author">Beatrix Potter</dc:creator>
 		<meta property="file-as" refines="#author">Potter, Beatrix</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Helen Beatrix Potter</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Beatrix_Potter</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80017651</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -114,13 +149,37 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Alexandre-Fran%C3%A7ois_Desportes</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n83141828</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Robert Cicconetti</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Cicconetti, Robert</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Ronald Holder</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Holder, Ronald</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Emmy</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Emmy</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">David Edwards</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Edwards, David</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">David Newman</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Newman, David</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">Melissa Er-Raqabi</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Er-Raqabi, Melissa</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-7">Michael Ciesielski</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Ciesielski, Michael</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-8">Jason Isbell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-8">Isbell, Jason</meta>
+		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-9">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-9">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-9">https://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.robinwhittleton.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>

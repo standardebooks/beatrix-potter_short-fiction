@@ -6,6 +6,36 @@ footer{
 	text-align: right;
 }
 
+figure{
+	break-inside: avoid;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figure.full-page{
+	break-after: page;
+	break-before: page;
+	margin: 0;
+	max-height: 100vh;
+	text-align: center;
+}
+
+@supports(display: flex){
+	figure.full-page{
+		display: flex;
+		flex-direction: column;
+	}
+
+	figure.full-page img{
+		height: 100vh;
+		object-fit: contain;
+	}
+}
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;

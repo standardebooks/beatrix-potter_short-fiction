@@ -146,7 +146,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Beatrix_Potter</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80017651</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Alexandre-François Desportes</dc:contributor>
 		<meta property="file-as" refines="#artist">Desportes, Alexandre-François</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Alexandre-Fran%C3%A7ois_Desportes</meta>
@@ -189,6 +189,7 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">wat</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
@@ -226,6 +227,33 @@
 		<item href="images/illustration-29.jpg" id="illustration-29.jpg" media-type="image/jpeg"/>
 		<item href="images/illustration-30.jpg" id="illustration-30.jpg" media-type="image/jpeg"/>
 		<item href="images/illustration-31.jpg" id="illustration-31.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-32.jpg" id="illustration-32.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-33.jpg" id="illustration-33.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-34.jpg" id="illustration-34.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-35.jpg" id="illustration-35.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-36.jpg" id="illustration-36.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-37.jpg" id="illustration-37.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-38.jpg" id="illustration-38.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-39.jpg" id="illustration-39.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-40.jpg" id="illustration-40.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-41.jpg" id="illustration-41.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-42.jpg" id="illustration-42.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-43.jpg" id="illustration-43.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-44.jpg" id="illustration-44.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-45.jpg" id="illustration-45.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-46.jpg" id="illustration-46.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-47.jpg" id="illustration-47.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-48.jpg" id="illustration-48.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-49.jpg" id="illustration-49.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-50.jpg" id="illustration-50.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-51.jpg" id="illustration-51.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-52.jpg" id="illustration-52.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-53.jpg" id="illustration-53.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-54.jpg" id="illustration-54.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-55.jpg" id="illustration-55.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-56.jpg" id="illustration-56.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-57.jpg" id="illustration-57.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-58.jpg" id="illustration-58.jpg" media-type="image/jpeg"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>

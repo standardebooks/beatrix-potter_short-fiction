@@ -135,7 +135,9 @@
 		<!-- The Tale of Johnny Town-Mouse -->
 		<dc:source>https://www.gutenberg.org/ebooks/15284</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/010382937</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">
+			• For quality reasons “The Tailor of Gloucester” uses images from https://www.tate.org.uk/art/artworks/potter-illustrations-for-the-tailor-of-gloucester-65490. As a few of the original illustrations are not part of this collection they’ve been omitted from this production as mixing and matching multiple image sources leads to a bad experience.
+		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Beatrix_Potter#Publications</meta>
@@ -254,6 +256,28 @@
 		<item href="images/illustration-56.jpg" id="illustration-56.jpg" media-type="image/jpeg"/>
 		<item href="images/illustration-57.jpg" id="illustration-57.jpg" media-type="image/jpeg"/>
 		<item href="images/illustration-58.jpg" id="illustration-58.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-59.jpg" id="illustration-59.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-60.jpg" id="illustration-60.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-61.jpg" id="illustration-61.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-62.jpg" id="illustration-62.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-63.jpg" id="illustration-63.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-64.jpg" id="illustration-64.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-65.jpg" id="illustration-65.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-66.jpg" id="illustration-66.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-67.jpg" id="illustration-67.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-68.jpg" id="illustration-68.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-69.jpg" id="illustration-69.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-70.jpg" id="illustration-70.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-71.jpg" id="illustration-71.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-72.jpg" id="illustration-72.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-73.jpg" id="illustration-73.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-74.jpg" id="illustration-74.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-75.jpg" id="illustration-75.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-76.jpg" id="illustration-76.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-77.jpg" id="illustration-77.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-78.jpg" id="illustration-78.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-79.jpg" id="illustration-79.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-80.jpg" id="illustration-80.jpg" media-type="image/jpeg"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>

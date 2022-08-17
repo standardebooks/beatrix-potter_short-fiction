@@ -99,7 +99,6 @@
 		<dc:source>https://www.gutenberg.org/ebooks/15077</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100525667</dc:source>
 		<!-- The Story of a Fierce Bad Rabbit -->
-		<!-- Can’t find scans with a publication date -->
 		<dc:source>https://www.gutenberg.org/ebooks/45265</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/011001828</dc:source>
 		<!-- The Story of Miss Moppet -->
@@ -137,6 +136,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/010382937</dc:source>
 		<meta property="se:production-notes">
 			• For quality reasons “The Tailor of Gloucester” uses images from https://www.tate.org.uk/art/artworks/potter-illustrations-for-the-tailor-of-gloucester-65490. As a few of the original illustrations are not part of this collection they’ve been omitted from this production as mixing and matching multiple image sources leads to a bad experience.
+			• The scans for “Fierce Bad Rabbit” don’t have a direct publication date, but enough detective work was done to be certain that they’re appropriate to use.
 		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>

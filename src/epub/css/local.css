@@ -27,16 +27,9 @@ figure.full-page{
 	text-align: center;
 }
 
-@supports(display: flex){
-	figure.full-page{
-		display: flex;
-		flex-direction: column;
-	}
-
-	figure.full-page img{
-		height: 100vh;
-		object-fit: contain;
-	}
+figure.full-page img{
+	max-height: 100vh;
+	object-fit: contain;
 }
 
 figure.left{

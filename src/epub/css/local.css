@@ -148,3 +148,13 @@ p span.i1{
 	font-variant: all-small-caps;
 	text-align: center;
 }
+
+#the-tale-of-samuel-whiskers > figure:last-of-type{
+	width: 5em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#the-tale-of-samuel-whiskers > p:last-child{
+	text-align: center;
+}

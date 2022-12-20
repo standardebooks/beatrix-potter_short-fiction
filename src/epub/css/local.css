@@ -149,12 +149,91 @@ p span.i1{
 	text-align: center;
 }
 
-#the-tale-of-samuel-whiskers > figure:last-of-type{
-	width: 5em;
-	margin-left: auto;
-	margin-right: auto;
-}
-
 #the-tale-of-samuel-whiskers > p:last-child{
 	text-align: center;
+}
+
+/* non-full-page image widths */
+
+img[epub|type~="se:image.color-depth.black-on-transparent"]{
+	width: 100%;
+}
+
+#illustration-325 > img{
+	width: 60%;
+}
+
+#illustration-326 > img,
+#illustration-401 > img,
+#illustration-471 > img,
+#illustration-472 > img,
+#illustration-476 > img,
+#illustration-479 > img,
+#illustration-480 > img,
+#illustration-481 > img,
+#illustration-487 > img,
+#illustration-488 > img,
+#illustration-491 > img,
+#illustration-502 > img,
+#illustration-504 > img,
+#illustration-506 > img,
+#illustration-511 > img,
+#illustration-514 > img,
+#illustration-516 > img,
+#illustration-519 > img,
+#illustration-520 > img{
+	width: 70%;
+}
+
+#illustration-306 > img,
+#illustration-322 > img,
+#illustration-323 > img,
+#illustration-335 > img,
+#illustration-384 > img,
+#illustration-393 > img,
+#illustration-477 > img,
+#illustration-483 > img,
+#illustration-484 > img,
+#illustration-486 > img,
+#illustration-493 > img,
+#illustration-495 > img,
+#illustration-497 > img,
+#illustration-498 > img,
+#illustration-501 > img,
+#illustration-507 > img,
+#illustration-508 > img,
+#illustration-509 > img,
+#illustration-512 > img,
+#illustration-515 > img,
+#illustration-522 > img,
+#illustration-523 > img{
+	width: 80%;
+}
+
+#illustration-311 > img,
+#illustration-319 > img,
+#illustration-320 > img,
+#illustration-328 > img,
+#illustration-341 > img,
+#illustration-353 > img,
+#illustration-387 > img,
+#illustration-388 > img,
+#illustration-392 > img,
+#illustration-395 > img,
+#illustration-397 > img,
+#illustration-399 > img,
+#illustration-400 > img,
+#illustration-408 > img,
+#illustration-409 > img,
+#illustration-412 > img,
+#illustration-469 > img,
+#illustration-517 > img,
+#illustration-527 > img{
+	width: 90%;
+}
+
+#illustration-190 > img,
+#illustration-355 > img{
+	width: 5em;
+	margin-top: 3em;
 }

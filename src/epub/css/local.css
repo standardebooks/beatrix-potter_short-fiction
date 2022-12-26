@@ -151,6 +151,7 @@ p span.i1{
 
 #the-tale-of-samuel-whiskers > p:last-child{
 	text-align: center;
+	text-indent: 0;
 }
 
 /* non-full-page image widths */

@@ -34,14 +34,14 @@ figure.full-page img{
 
 figure.left{
 	float: left;
-	width: 45%;
 	margin: 0.5em 0.5em 0.5em 0;
+	width: 45%;
 }
 
 figure.right{
 	float: right;
-	width: 45%;
 	margin: 0.5em 0 0.5em 0.5em;
+	width: 45%;
 }
 
 /* All epigraphs */
@@ -155,7 +155,6 @@ p span.i1{
 }
 
 /* non-full-page image widths */
-
 img[epub|type~="se:image.color-depth.black-on-transparent"]{
 	width: 100%;
 }
@@ -235,6 +234,6 @@ img[epub|type~="se:image.color-depth.black-on-transparent"]{
 
 #illustration-190 > img,
 #illustration-355 > img{
-	width: 5em;
 	margin-top: 3em;
+	width: 5em;
 }

@@ -66,10 +66,6 @@ article > header [epub|type~="epigraph"]{
 	text-align: initial;
 }
 
-article > header [epub|type~="epigraph"] + *{
-	margin-top: 3em;
-}
-
 @supports(display: table){
 	article > header [epub|type~="epigraph"]{
 		display: table;
@@ -176,13 +172,17 @@ section[epub|type~="dedication"] > *{
 	width: 80%;
 }
 
-#the-tailor-of-gloucester > blockquote:last-of-type{
+#the-tailor-of-gloucester-text > blockquote:last-of-type{
 	font-size: .75em;
 	font-variant: all-small-caps;
 	text-align: center;
 }
 
-#the-tale-of-samuel-whiskers > p:last-child{
+#the-tailor-of-gloucester-dedication > footer{
+	margin-top: 1em; /* Correct style overridden by dedication boilerplate */
+}
+
+#the-tale-of-samuel-whiskers-text > p:last-child{
 	text-align: center;
 	text-indent: 0;
 }

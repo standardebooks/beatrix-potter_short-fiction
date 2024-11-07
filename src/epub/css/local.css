@@ -34,13 +34,13 @@ figure.full-page img{
 
 figure.left{
 	float: left;
-	margin: 0.5em 0.5em 0.5em 0;
+	margin: .5em .5em .5em 0;
 	width: 45%;
 }
 
 figure.right{
 	float: right;
-	margin: 0.5em 0 0.5em 0.5em;
+	margin: .5em 0 .5em .5em;
 	width: 45%;
 }
 

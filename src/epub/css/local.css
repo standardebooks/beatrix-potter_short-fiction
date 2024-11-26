@@ -27,9 +27,24 @@ figure.full-page{
 	text-align: center;
 }
 
-figure.full-page img{
-	max-height: 100vh;
-	object-fit: contain;
+@supports(display: flex){
+	figure.full-page{
+		display: flex;
+		flex-direction: column;
+	}
+
+	figure.full-page img{
+		height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@supports(display: grid){
+	figure.full-page{
+		display: grid;
+		grid-template-rows: 1fr auto;
+		max-height: 100%;
+	}
 }
 
 figure.left{

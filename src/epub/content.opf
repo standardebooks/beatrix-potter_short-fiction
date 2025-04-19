@@ -185,8 +185,8 @@
 		<dc:contributor id="transcriber-8">Jason Isbell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-8">Isbell, Jason</meta>
 		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-9">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-9">Online Distributed Proofreading Team, The</meta>
+		<dc:contributor id="transcriber-9">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-9">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-9">https://www.pgdp.net</meta>
 		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>

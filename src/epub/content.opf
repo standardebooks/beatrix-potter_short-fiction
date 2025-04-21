@@ -69,6 +69,7 @@
 		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of Beatrix Potter’s short stories for children, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/beatrix-potter"&gt;Beatrix Potter’s&lt;/a&gt; tales of the animal inhabitants of the Lake District countryside in which she lived started with the simple story of a naughty rabbit, written for a young friend. It was eventually published nine years later in 1902 as “The Tale of Peter Rabbit,” accompanied by her watercolor illustrations. Its success led to the publishing of a further twenty-two books in the series over the next three decades.&lt;/p&gt;

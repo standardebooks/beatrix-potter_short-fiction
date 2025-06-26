@@ -128,8 +128,23 @@ section[epub|type~="dedication"] > *{
 }
 /* End centered dedications */
 
-[epub|type~="z3998:salutation"]{
+#the-tailor-of-gloucester-dedication{
+	min-height: auto;
+	padding-top: 0;
+}
+
+#the-tailor-of-gloucester-dedication,
+#the-tailor-of-gloucester-dedication *{
+	display: block;
+	max-width: none;
+}
+
+#the-tailor-of-gloucester-dedication > p:first-of-type{
 	font-variant: small-caps;
+}
+
+#the-tailor-of-gloucester-dedication > p:first-of-type + p{
+	text-indent: 0;
 }
 
 #the-tale-of-peter-rabbit > p > span{
@@ -157,10 +172,6 @@ section[epub|type~="dedication"] > *{
 #the-tailor-of-gloucester > [epub|type~="dedication"]{
 	font-variant: normal;
 	text-align: initial;
-}
-
-#the-tailor-of-gloucester > [epub|type~="dedication"] > footer{
-	width: 80%;
 }
 
 #the-tailor-of-gloucester-text > blockquote:last-of-type{

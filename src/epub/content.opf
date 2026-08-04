@@ -71,7 +71,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of Beatrix Potter’s short stories for children, ordered by date of publication.</dc:abstract>
+		<meta property="schema:abstract">A collection of Beatrix Potter’s short stories for children, ordered by date of publication.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/beatrix-potter"&gt;Beatrix Potter’s&lt;/a&gt; tales of the animal inhabitants of the Lake District countryside in which she lived started with the simple story of a naughty rabbit, written for a young friend. It was eventually published nine years later in 1902 as “The Tale of Peter Rabbit,” accompanied by her watercolor illustrations. Its success led to the publishing of a further twenty-two books in the series over the next three decades.&lt;/p&gt;
 			&lt;p&gt;The creatures detailed lead period-correct lives, with many of them having jobs in the animal society that mimic the society Beatrix was living in. Her stories rarely shy away from showing the dangers of the wider world that the inhabitants find themselves in, and similarly they rarely end on a completely happy note. But despite this—or perhaps because of this—they have remained globally popular over the last century with both children and parents alike. The stories have been translated many times over, and continue to be presented in new formats including &lt;abbr&gt;TV&lt;/abbr&gt;, film, theater, and even ballet.&lt;/p&gt;

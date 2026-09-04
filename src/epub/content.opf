@@ -31,40 +31,40 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
-		<dc:subject id="subject-1">Rabbits -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-1">Rabbits--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008110336</meta>
-		<dc:subject id="subject-2">Squirrels -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-2">Squirrels--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2010114581</meta>
-		<dc:subject id="subject-3">Mice -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-3">Mice--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008107739</meta>
-		<dc:subject id="subject-4">Christmas -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-4">Christmas--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85025320</meta>
-		<dc:subject id="subject-5">Conduct of life -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-5">Conduct of life--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008100297</meta>
-		<dc:subject id="subject-6">Theft -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-6">Theft--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2010116435</meta>
-		<dc:subject id="subject-7">Dogs -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-7">Dogs--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008102357</meta>
-		<dc:subject id="subject-8">Cats -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-8">Cats--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2008100224</meta>
-		<dc:subject id="subject-9">Frogs -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-9">Frogs--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">sh2008121275</meta>
-		<dc:subject id="subject-10">Kittens -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-10">Kittens--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">sh2008122902</meta>
-		<dc:subject id="subject-11">Foxes -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-11">Foxes--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-11">LCSH</meta>
 		<meta property="term" refines="#subject-11">sh2008120259</meta>
-		<dc:subject id="subject-12">Ducks -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-12">Ducks--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-12">LCSH</meta>
 		<meta property="term" refines="#subject-12">sh2009123947</meta>
 		<meta property="schema:genre">Children’s</meta>
